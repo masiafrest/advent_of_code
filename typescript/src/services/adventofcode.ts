@@ -4,7 +4,6 @@ dotenv.config();
 
 const sessionKey = process.env.AOC_KEY;
 
-
 export const getInputChallenge = ({
   year,
   day,
